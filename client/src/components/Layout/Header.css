@@ -1,0 +1,40 @@
+.navbar {
+    background-color: #0f75dc;
+  }
+  
+  .ant-dropdown-link {
+    display: flex;
+    align-items: center;
+  }
+  
+  .ant-dropdown-link .ant-avatar {
+    cursor: pointer;
+  }
+  
+  .nav-item {
+    display: flex;
+    align-items: center;
+    margin-left: 15px;
+   
+    
+  }
+  
+  input[type="file"] {
+    display: none;
+  }
+  
+  .headers {
+    margin: 0;
+    padding: 0;
+  }
+  
+  .navbar-brand {
+    margin-left: 500px;
+   
+    padding: 0;
+  }
+  
+  /* Add any other necessary styles here */
+  
+ 
+  

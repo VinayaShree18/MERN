@@ -1,0 +1,166 @@
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+ }
+
+.content{
+ margin-left: 38px;
+ margin-right: 57px;
+  height: 70vh;
+  background-color: #fff;
+  
+  margin-bottom: 150px;
+  border-radius: 55px;
+  
+}
+.register-page {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  background-image: url('https://th.bing.com/th/id/OIP.GbMboU-krQvdIrfKgWpzXgHaFj?rs=1&pid=ImgDetMain');
+  background-size: cover;
+  background-position: center;
+  padding: 20px;
+}
+.headers{
+  padding-top: 0px;
+}
+.register-form-container {
+  background: rgba(143, 234, 234, 0.8);
+  padding: 20px;
+  border-radius: 30px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  width: 100%;
+  max-width: 400px;
+  
+ /* background-image: url('https://th.bing.com/th/id/R.a4a02635addd9d1604b40c6c9c2a0c45?rik=947ccX0Tugu41g&riu=http%3a%2f%2fw2m2-toolcontrol.com%2ftemplate%2fimages%2flogin_background.jpg&ehk=Xj18wWKy4V8%2bA9pApYTjYKiftiH4FccJ8r4lMl6ow68%3d&risl=&pid=ImgRaw&r=0');*/
+}
+
+h1 {
+  text-align: center;
+  color: #333;
+}
+
+.form-item {
+  margin-bottom: 15px;
+
+}
+
+.register-button {
+  margin-bottom: 5px;
+  width: 100%;
+}
+p{
+  margin-bottom: 5px;
+  padding-top: 10px;
+}
+.loginlink{
+  display: block;
+  margin-bottom: 5px;
+  color: #1890ff;
+}
+.registerlink{
+  color: #333;
+}
+
+.filters{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  
+  box-shadow: 0 0 3px gray;
+  border: 4px 5px;
+  border-color: #1890ff;
+  margin-left: 40px;
+  margin-right: 30px;
+  background: rgba(143, 234, 234, 0.8);
+padding: 20px 20px;
+  border-radius: 30px;
+  box-shadow: 2px 4px 8px rgba(0, 0, 0, 0.1);
+  width: 93%;
+  max-width: 1400px;
+  
+}
+.anticon svg{
+font-size: 20px;
+cursor: pointer;
+}
+.active-icon{
+  color: black;
+}
+.inactive-icon{
+  color: rgb(111, 105, 105);
+}
+.swicth-icons{
+  border: 1px solid black;
+  border-radius: 5px;
+  padding: 7px 1px;
+}
+
+
+.contentvalues{
+  background-color: #1890ff;
+  color: #1890ff;
+}
+.swicth-icons{
+  background-color: rgb(248, 179, 110);
+ 
+}
+.addbutton{
+  background-color: rgb(248, 179, 110);
+  color: #151617;
+}
+.addbutton :hover{
+  border-radius: 3px;
+  background-color:#f0a686;
+  color: #151617;
+}
+.navbar-brand{
+  font-size: 45px;
+ padding-left: 500px;
+ font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  color: brown;
+  background-color:gray ;
+}
+.container-fluid{
+  background-color: gray;
+}
+Header{
+  background-color: rgb(197, 19, 19);
+}
+.icon-small{
+  font-size: 5px;
+}
+Layout{
+  background-color: black;
+}
+/* styles.css */
+.modal-content {
+  padding: 20px;
+  background-color: #fff;
+  border-radius: 8px;
+}
+
+.form-item {
+  margin-bottom: 15px;
+}
+
+.form-item-label {
+  font-weight: bold;
+}
+
+.input-field,
+.select-field {
+  width: 100%;
+  padding: 8px;
+  border-radius: 4px;
+  border: 1px solid #ccc;
+}
+
+.button-container {
+  margin-top: 20px;
+  display: flex;
+  justify-content: flex-end;
+}
